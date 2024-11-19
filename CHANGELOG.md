@@ -1,6 +1,12 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/envoy/compare/v2.9.0...2.x)
+## [Unreleased](https://github.com/laravel/envoy/compare/v2.10.0...2.x)
+
+## [v2.10.0](https://github.com/laravel/envoy/compare/v2.9.0...v2.10.0) - 2024-11-19
+
+* Use new static analysis workflow by [@Jubeki](https://github.com/Jubeki) in https://github.com/laravel/envoy/pull/275
+* Replace dead link in Security Policy by [@Jubeki](https://github.com/Jubeki) in https://github.com/laravel/envoy/pull/278
+* [2.x] Supports PHP 8.4 by [@crynobone](https://github.com/crynobone) in https://github.com/laravel/envoy/pull/280
 
 ## [v2.9.0](https://github.com/laravel/envoy/compare/v2.8.7...v2.9.0) - 2024-01-16
 
