@@ -1,6 +1,10 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/envoy/compare/v2.10.0...2.x)
+## [Unreleased](https://github.com/laravel/envoy/compare/v2.10.1...2.x)
+
+## [v2.10.1](https://github.com/laravel/envoy/compare/v2.10.0...v2.10.1) - 2025-01-14
+
+* Fix deprecations warning on PHP 8.4 by [@crynobone](https://github.com/crynobone) in https://github.com/laravel/envoy/pull/282
 
 ## [v2.10.0](https://github.com/laravel/envoy/compare/v2.9.0...v2.10.0) - 2024-11-19
 
