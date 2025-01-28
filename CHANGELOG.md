@@ -1,6 +1,10 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/envoy/compare/v2.10.1...2.x)
+## [Unreleased](https://github.com/laravel/envoy/compare/v2.10.2...2.x)
+
+## [v2.10.2](https://github.com/laravel/envoy/compare/v2.10.1...v2.10.2) - 2025-01-28
+
+* Supports Laravel 12 by [@crynobone](https://github.com/crynobone) in https://github.com/laravel/envoy/pull/283
 
 ## [v2.10.1](https://github.com/laravel/envoy/compare/v2.10.0...v2.10.1) - 2025-01-14
 
